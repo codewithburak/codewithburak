@@ -1,2 +1,2 @@
-# codewithburak.github.io
+# CodeWithBurak
 Burak Yiğit Gülşen kuruluşudur.
